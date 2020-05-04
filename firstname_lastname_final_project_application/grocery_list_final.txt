@@ -1,0 +1,53 @@
+ID1|Butter, salted|Dairy|2.99|lb
+ID2|Butter, whipped, with salt|Dairy|3.99|lb
+ID3|Cheese, american|Dairy|4.99|lb
+ID4|Cheese, cheddar|Dairy|5.99|lb
+ID5|Egg, white|Dairy|1.99|dozen
+ID6|Egg, brown|Dairy|2.99|dozen
+ID7|Egg white|Dairy|3.99|Oz
+ID8|Buttermilk|Dairy|2.99|lb
+ID9|Chocolate Milk|Dairy|2.00|Gallon
+ID10|Milk, reduced fat, 2%|Dairy|1.99|Gallon
+ID11|Milk, whole|Dairy|2.99|Gallon
+ID12|Yogurt, nonfat|Dairy|2.99|lb
+ID13|Yogurt, whole|Dairy|2.99|lb
+ID14|Apple juice|Fruit|4.99|oz
+ID15|Apples|Fruit|3.99|lb
+ID16|Oranges|Fruit|2.99|lb
+ID17|Banana|Fruit|1.69|lb
+ID18|Grapes|Fruit|3.99|lb
+ID19|Apricots|Fruit|2.99|lb
+ID20|Blackberries|Fruit|3.99|pint
+ID21|Blueberry|Fruit|4.99|pint
+ID22|Dates|Fruit|5.99|lb
+ID23|Strawberry|Fruit|3.87|lb
+ID24|Pineapple|Fruit|1.99|each
+ID25|Raisins|Fruit|3.99|lb
+ID26|Green Bean|Vegetable|1.99|lb
+ID27|Cauliflower|Vegetable|1.99|lb
+ID28|Broccolli|Vegetable|1.99|lb
+ID29|Spinach|Vegetable|1.99|packet
+ID30|Baby SpinachCauliflower|Vegetable|2.99|lb
+ID31|Beet|Vegetable|1.99|lb
+ID32|Brussels sprouts|Vegetable|3.99|lb
+ID33|Bell Pepper|Vegetable|1.00|each
+ID34|Eggplant|Vegetable|1.89|lb
+ID35|Carrots|Vegetable|2.99|lb
+ID36|Red Potatoes|Vegetable|2.99|lb
+ID37|Gold Potatoes|Vegetable|1.99|lb
+ID38|Onions|Vegetable|1.69|lb
+ID39|Tomato|Vegetable|2.99|lb
+ID40|Whole chicken organic|poultry|4.99|lb
+ID41|Whole chicken|poultry|2.99|lb
+ID42|Thaigh chicken|poultry|2.99|lb
+ID43|Breast chicken|poultry|2.99|lb
+ID44|Chicken ground|poultry|2.99|lb
+ID45|Turkey breast|poultry|3.99|lb
+ID46|Beef Chuck|meat|2.99|lb
+ID47|Beef Patties|meat|2.99|lb
+ID48|Ham|meat|2.99|lb
+ID49|Salmon, Atlantic|seafood|4.99|lb
+ID50|Salmon, Sokeye|seafood|5.99|lb
+ID51|Shrimp, raw, tail on|seafood|5.99|lb
+ID52|Shrimp, raw, tail on|seafood|5.99|lb
+ID53|Tilapia|seafood|2.99|lb
