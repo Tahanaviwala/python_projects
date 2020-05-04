@@ -1,0 +1,9 @@
+Thanks for shopping at Amazing.
+
+You purchased the following item(s)
+
+B004,book,Grant,22.50
+
+**************************
+
+The amount is: $22.5
